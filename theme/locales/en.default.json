@@ -1,9 +1,0 @@
-{
-  "shopify": {
-    "checkout": {
-      "payment": {
-        "offsite_gateway_redirect_hint": "Click on the \"Complete Order\" button at the bottom of the page to complete your order securely through {{ gateway_label }}."
-      }
-    }
-  }
-}
