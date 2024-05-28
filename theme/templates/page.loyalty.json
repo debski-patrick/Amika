@@ -1,0 +1,224 @@
+{
+  "sections": {
+    "163821327640101c8f": {
+      "type": "grid_block",
+      "blocks": {
+        "e6f48b10-6d67-4105-afc1-09ae2a99cdde": {
+          "type": "grid_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-1_1000x_f1ac4b21-6e0a-429e-87f7-f5e0954ec54c.webp",
+            "title_size": "h1",
+            "title": "friends with benefits+",
+            "subtitle": "salon loyalty program",
+            "subtext": "friends with benefits+ is a program designed to reward salons for their continued loyalty and support. consider this our way of sharing the love.",
+            "btn_text": "JOIN NOW",
+            "btn_link": "https:\/\/loveamikapro.com\/#register",
+            "bg_color": "#fefaf0",
+            "grid_inverse": false
+          }
+        },
+        "3657d06e-3e3d-426c-af2a-b39147adf5a4": {
+          "type": "grid_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/amika_210528_pro-social-toolkit_july-august_still-life_salon-backbar_3694_1080x1080_1_2x_1_1000x_f828f89a-d407-45f3-9ee8-8c0966d2a633.webp",
+            "title_size": "h3",
+            "title": "get rewarded and redeem full-size products, tools, merch + more!",
+            "subtitle": "",
+            "subtext": "for salons big and small – there’s something for all.",
+            "btn_text": "",
+            "btn_link": "",
+            "bg_color": "#ff5edb",
+            "grid_inverse": true
+          }
+        }
+      },
+      "block_order": [
+        "e6f48b10-6d67-4105-afc1-09ae2a99cdde",
+        "3657d06e-3e3d-426c-af2a-b39147adf5a4"
+      ],
+      "settings": {
+        "full_width": true
+      }
+    },
+    "16385602258df6a720": {
+      "type": "spacer",
+      "settings": {
+        "divider": false,
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_top_m": 60,
+        "padding_bottom_m": 0
+      }
+    },
+    "163822069966e4412d": {
+      "type": "categories",
+      "blocks": {
+        "763a23af-8944-408c-93c3-830de2977f24": {
+          "type": "title",
+          "settings": {
+            "block_title": "JOIN",
+            "block_content": "<b>friends with benefits+ <\/b> is open to all pro salons + stylists who purchase a minimum of $500 bimonthly in amika products from their primary distributor",
+            "block_content2": "<b>register at <\/b> <a href=\"loveamikapro.com\">loveamikapro.com<\/a> using your account number from your primary distributor"
+          }
+        },
+        "4d135b99-e83f-4d70-9ce7-12d43c577bee": {
+          "type": "title",
+          "settings": {
+            "block_title": "EARN",
+            "block_content": "based on bimonthly purchase ranges, members can qualify within six tiers, including one <b> exclusively for suites.<\/b>",
+            "block_content2": "members can earn either products or points based on their tier, with points value ranging from <b> 15% - 33% return<\/b>"
+          }
+        },
+        "8e688a1e-404a-46e3-a102-dd5a1d7fd6df": {
+          "type": "title",
+          "settings": {
+            "block_title": "REDEEM",
+            "block_content": "members will receive preselected rewards, and where applicable, can <b> choose how they want to spend <\/b> their remaining points.",
+            "block_content2": "rewards can be redeemed at  <b><a href=\"loveamikapro.com\">loveamikapro.com<\/a> <\/b> or for suites, through your primary distributor."
+          }
+        }
+      },
+      "block_order": [
+        "763a23af-8944-408c-93c3-830de2977f24",
+        "4d135b99-e83f-4d70-9ce7-12d43c577bee",
+        "8e688a1e-404a-46e3-a102-dd5a1d7fd6df"
+      ],
+      "settings": {
+        "heading": "let’s take this relationship to the next level"
+      }
+    },
+    "1638560214b6462e7c": {
+      "type": "spacer",
+      "settings": {
+        "divider": false,
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "padding_top_m": 10,
+        "padding_bottom_m": 0
+      }
+    },
+    "16385600985cefdb63": {
+      "type": "loyalty-rewards",
+      "settings": {
+        "heading": "salon tiers overview"
+      }
+    },
+    "19084fdf-89f3-4b84-af3d-d447a327fa31": {
+      "type": "spacer",
+      "settings": {
+        "divider": false,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_top_m": 20,
+        "padding_bottom_m": 20
+      }
+    },
+    "1638560107beaaa3a7": {
+      "type": "loyality-suite-exclusive",
+      "settings": {
+        "heading": "suite exclusive",
+        "content": "for our small but mighty single operator salons, a sweet (suite) exclusive just for you! make sure to identify as a suite when registering in order to qualify for this tier."
+      }
+    },
+    "spacer_hC7hEQ": {
+      "type": "spacer",
+      "settings": {
+        "divider": false,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_top_m": 20,
+        "padding_bottom_m": 20
+      }
+    },
+    "loyalty_reward_calendar_Qt4XW3": {
+      "type": "loyalty-reward-calendar",
+      "settings": {
+        "heading": "annual rewards calendar"
+      }
+    },
+    "spacer_8XizVg": {
+      "type": "spacer",
+      "settings": {
+        "divider": false,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_top_m": 20,
+        "padding_bottom_m": 20
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "6c814c73-b736-46d3-8db7-8f413a1526df": {
+          "type": "question",
+          "settings": {
+            "question": "will salons automatically be enrolled into friends with benefits+ ?",
+            "answer": "<p>no. salons\/stylists need to register on <a href=\"loveamikapro.com\">loveamikapro.com<\/a> and create an account. existing friends with benefits members will also need to create a new account on <a href=\"loveamikapro.com\">loveamikapro.com<\/a><\/p>"
+          }
+        },
+        "a9f070d3-4f2f-49ee-8424-bccb3b729d0c": {
+          "type": "question",
+          "settings": {
+            "question": "can a salon that spends $500 - $999 qualify for the suite tier?",
+            "answer": "<p>suite tier was created exclusively for suite\/single operator salons.  if you did not register as a suite when creating an account, you will not be eligible for the suite tier.<\/p>"
+          }
+        },
+        "47b3827d-9096-419e-874b-e5a90308defc": {
+          "type": "question",
+          "settings": {
+            "question": "what if a salon purchases amika products from multiple distributors?",
+            "answer": "<p>the primary distributor is designated by the pro at the time of program registration. while pros are not restricted from shopping with multiple distributors, they can only earn rewards based on the purchase totals reported by their designated primary distributor. purchase totals cannot be combined. <\/p>"
+          }
+        },
+        "441cf2af-1928-4e39-acde-16d87b74d4f3": {
+          "type": "question",
+          "settings": {
+            "question": "what happens if a member doesn’t meet the bimonthly purchase?",
+            "answer": "<p>members qualify on a bimonthly period basis. if they do not meet the minimum purchase of their existing tier, they will be downgraded to the appropriate tier.<\/p>"
+          }
+        },
+        "c01999c2-1740-4641-bd74-edb54b63fc6b": {
+          "type": "question",
+          "settings": {
+            "question": "how long will the points be valid?",
+            "answer": "<p>rewards points will remain active for 12 months from the date of issuance.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "6c814c73-b736-46d3-8db7-8f413a1526df",
+        "a9f070d3-4f2f-49ee-8424-bccb3b729d0c",
+        "47b3827d-9096-419e-874b-e5a90308defc",
+        "441cf2af-1928-4e39-acde-16d87b74d4f3",
+        "c01999c2-1740-4641-bd74-edb54b63fc6b"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    },
+    "16385598172cee93bd": {
+      "type": "spacer",
+      "settings": {
+        "divider": false,
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "padding_top_m": 50,
+        "padding_bottom_m": 0
+      }
+    }
+  },
+  "order": [
+    "163821327640101c8f",
+    "16385602258df6a720",
+    "163822069966e4412d",
+    "1638560214b6462e7c",
+    "16385600985cefdb63",
+    "19084fdf-89f3-4b84-af3d-d447a327fa31",
+    "1638560107beaaa3a7",
+    "spacer_hC7hEQ",
+    "loyalty_reward_calendar_Qt4XW3",
+    "spacer_8XizVg",
+    "faq",
+    "16385598172cee93bd"
+  ]
+}
